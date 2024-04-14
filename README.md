@@ -1,11 +1,15 @@
-int main(){
-- 👋 Hi, I’m Aakash Patel
-- 👀 I’m interested in Math
-- 🌱 I’m currently learning AI developing 
+#inculde <introduction.h>
+int main(void){
+- 👋 char name[12] = Aakash Patel;
+- 👀 char interest[5] = Math;
+- 🌱 char currently learning[15] = AI developing ;
 - 💞️ I’m looking to collaborate on 
-- 📫 Reach me <a href="htpps://www.superficialak.line.pm">here</a
-- 😄 Pronouns: @Akastha68
-- ⚡ Fun fact: my favourite language is C.
+- 📫 char reach me[at] = <a href="htpps://www.superficialak.line.pm">here</a>;
+
+- 😄 Pronouns: @Akastha68;
+- ⚡ Fun fact: my favourite language is C.;
+return 0;
+  }
 
 <!---
 Akastha68/Akastha68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
