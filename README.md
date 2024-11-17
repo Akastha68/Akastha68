@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Akastha68&label=15000&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akash.patel459) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vinayudayraj) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SuperficialAK) 
 
